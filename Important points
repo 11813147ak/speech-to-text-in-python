@@ -1,0 +1,7 @@
+If your pyaudio does n't work then 
+
+run these commands
+
+!pip install pipwin
+
+!pipwin install pyaudio
